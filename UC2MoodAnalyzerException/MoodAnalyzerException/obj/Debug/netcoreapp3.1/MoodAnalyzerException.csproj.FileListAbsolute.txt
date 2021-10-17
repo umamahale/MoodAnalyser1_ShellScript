@@ -1,0 +1,5 @@
+C:\Users\om\source\repos\MoodAnalyzerException\MoodAnalyzerException\obj\Debug\netcoreapp3.1\MoodAnalyzerException.csproj.AssemblyReference.cache
+C:\Users\om\source\repos\MoodAnalyzerException\MoodAnalyzerException\obj\Debug\netcoreapp3.1\MoodAnalyzerException.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\om\source\repos\MoodAnalyzerException\MoodAnalyzerException\obj\Debug\netcoreapp3.1\MoodAnalyzerException.AssemblyInfoInputs.cache
+C:\Users\om\source\repos\MoodAnalyzerException\MoodAnalyzerException\obj\Debug\netcoreapp3.1\MoodAnalyzerException.AssemblyInfo.cs
+C:\Users\om\source\repos\MoodAnalyzerException\MoodAnalyzerException\obj\Debug\netcoreapp3.1\MoodAnalyzerException.csproj.CoreCompileInputs.cache
